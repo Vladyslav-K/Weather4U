@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather4u/static/css/main.b9f00161.chunk.css",
+    "main.js": "/weather4u/static/js/main.b0c7a202.chunk.js",
+    "main.js.map": "/weather4u/static/js/main.b0c7a202.chunk.js.map",
+    "runtime-main.js": "/weather4u/static/js/runtime-main.df1c579b.js",
+    "runtime-main.js.map": "/weather4u/static/js/runtime-main.df1c579b.js.map",
+    "static/js/2.fe31563e.chunk.js": "/weather4u/static/js/2.fe31563e.chunk.js",
+    "static/js/2.fe31563e.chunk.js.map": "/weather4u/static/js/2.fe31563e.chunk.js.map",
+    "index.html": "/weather4u/index.html",
+    "precache-manifest.f10ffbae1db2fa6076cd622265ed1970.js": "/weather4u/precache-manifest.f10ffbae1db2fa6076cd622265ed1970.js",
+    "service-worker.js": "/weather4u/service-worker.js",
+    "static/css/main.b9f00161.chunk.css.map": "/weather4u/static/css/main.b9f00161.chunk.css.map",
+    "static/js/2.fe31563e.chunk.js.LICENSE": "/weather4u/static/js/2.fe31563e.chunk.js.LICENSE",
+    "static/media/polygon.jpg": "/weather4u/static/media/polygon.d0323d9d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df1c579b.js",
+    "static/js/2.fe31563e.chunk.js",
+    "static/css/main.b9f00161.chunk.css",
+    "static/js/main.b0c7a202.chunk.js"
+  ]
+}
