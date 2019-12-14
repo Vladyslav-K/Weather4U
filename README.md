@@ -1,6 +1,6 @@
-#Weather4U
+# Weather4U
 
-##A simple application to display the weather in your city.
+## A simple application to display the weather in your city.
 
 ![alt-text](http://i.piccy.info/i9/3ba6ab69784244f364317575197393c3/1576357158/88826/1352546/Weather4U.jpg "Weather4U UI")
 
